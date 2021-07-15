@@ -4,18 +4,18 @@
 
 <p>This portfolio is developed with the help of Tutorials Dev</p>
 
-![Image of home]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Home.jpg")
+![Image of home](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Home.jpg)
 
-![Image of home2]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Home2.jpg")
+![Image of home2](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Home2.jpg)
 
-![Image of about]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/About.jpg")
+![Image of about](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/About.jpg)
 
-![Image of resume1]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Resume1.jpg")
+![Image of resume1](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Resume1.jpg)
 
-![Image of resume](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Resume.jpg"")
+![Image of resume](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Resume.jpg)
 
-![Image of portfolio]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Portfolio.jpg")
+![Image of portfolio](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Portfolio.jpg)
 
-![Image of services]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Services.jpg")
+![Image of services](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Services.jpg)
 
-![Image of contact]("https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Contact.jpg")
+![Image of contact](https://github.com/jillellamudisurya/Portfolio_CSS_HTML/blob/main/resultImages/Contact.jpg)
