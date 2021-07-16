@@ -2,7 +2,7 @@
 
 <h2>Responsive Portfolio</h2>
 
-<h3>To Visit this Portfolio <a href="https://jillellamudisurya.github.io/Portfolio_CSS_HTML/">Click Here</a>
+<h3>To Visit this Portfolio <a href="https://jillellamudisurya.github.io/Portfolio_CSS_HTML/" target="_blank">Click Here</a>
 
 <p>This portfolio is developed with the help of Tutorials Dev</p>
 
